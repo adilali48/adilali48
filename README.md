@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Adil Ali 👋
 
-<!--
-**adilali48/adilali48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Developer · ML Enthusiast · BSCS Student**
 
-Here are some ideas to get you started:
+I'm a Computer Science student (4th semester) at the University of Lahore.
+I build machine learning models and data pipelines, and I'm actively seeking
+a Python / ML internship where I can contribute to real projects from day one.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · SQL · C / C++
+
+**ML / Data:** Scikit-learn · NumPy · Pandas · Matplotlib · Data Preprocessing
+
+**Concepts:** Machine Learning · Classification · Algorithms · Database Design
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 student-performance-ml
+Classification model predicting student outcomes using Scikit-learn and Pandas
+85% accuracy on 500-row dataset with full data preprocessing pipeline.
+
+### 🔹 sql-database-design
+Normalized relational DB schema for a student management system
+6 entities · 12 relationships · Full ER diagram included
+
+### 🔹 cpp-algorithms
+8+ sorting and searching algorithms in C++ with complexity analysis
+and documented test cases
+
+---
+
+## 📌 Currently
+
+- 🔭 Building and improving my ML classification project
+- 📖 Studying neural networks and deep learning fundamentals
+- 💼 Open to Python / ML internships in Lahore or remote
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: linkedin.com/in/adil-ali-a28989285
+- 📧 Email: rajperadilkhan@gmail.com
+- 📍 Location: Lahore, Pakistan
